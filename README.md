@@ -11,6 +11,7 @@ Tabela básica mostrando a finalidade de pacotes
 |torch  |      Pacote para Tensores e redes neurais com aceleração 'GPU'|
 |crayon |      Colorir outputs no RStudio|
 |rstudioapi |  Acesso a elementos gráficos do RStudio|
+|juicr| Dados extraídos de imagens como gráficos|
 
 
 
